@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/adiecs/static/css/main.fd365f6e.chunk.css",
-    "main.js": "/adiecs/static/js/main.4765b8e6.chunk.js",
-    "main.js.map": "/adiecs/static/js/main.4765b8e6.chunk.js.map",
+    "main.js": "/adiecs/static/js/main.6f58051d.chunk.js",
+    "main.js.map": "/adiecs/static/js/main.6f58051d.chunk.js.map",
     "runtime-main.js": "/adiecs/static/js/runtime-main.9d332c3f.js",
     "runtime-main.js.map": "/adiecs/static/js/runtime-main.9d332c3f.js.map",
     "static/css/2.ab307058.chunk.css": "/adiecs/static/css/2.ab307058.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.ab307058.chunk.css",
     "static/js/2.15c5305b.chunk.js",
     "static/css/main.fd365f6e.chunk.css",
-    "static/js/main.4765b8e6.chunk.js"
+    "static/js/main.6f58051d.chunk.js"
   ]
 }
